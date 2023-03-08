@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/project/bin/Debug/net6.0/project
+/workspaces/codespaces-blank/project/bin/Debug/net6.0/project.deps.json
+/workspaces/codespaces-blank/project/bin/Debug/net6.0/project.runtimeconfig.json
+/workspaces/codespaces-blank/project/bin/Debug/net6.0/project.dll
+/workspaces/codespaces-blank/project/bin/Debug/net6.0/project.pdb
+/workspaces/codespaces-blank/project/obj/Debug/net6.0/project.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/project/obj/Debug/net6.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/project/obj/Debug/net6.0/project.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/project/obj/Debug/net6.0/project.AssemblyInfo.cs
+/workspaces/codespaces-blank/project/obj/Debug/net6.0/project.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/project/obj/Debug/net6.0/project.dll
+/workspaces/codespaces-blank/project/obj/Debug/net6.0/refint/project.dll
+/workspaces/codespaces-blank/project/obj/Debug/net6.0/project.pdb
+/workspaces/codespaces-blank/project/obj/Debug/net6.0/project.genruntimeconfig.cache
+/workspaces/codespaces-blank/project/obj/Debug/net6.0/ref/project.dll
